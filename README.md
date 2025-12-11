@@ -2,6 +2,8 @@
 
 A modern, responsive calendar application built with React, TypeScript, and Vite.
 
+[**Live Demo**](https://atcalendar1.web.app/)
+
 ## Features
 
 - **Month, Week, and Day Views**: Switch between different calendar views to manage your schedule.
