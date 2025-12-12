@@ -71,7 +71,7 @@ This project includes a comprehensive test suite using **Vitest** and **React Te
 To run the test suite:
 
 ```bash
-bun test
+bun run test
 ```
 
 This will run all unit and integration tests. The test runner operates in watch mode by default, re-running tests as you modify files.
