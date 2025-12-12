@@ -59,7 +59,7 @@ A modern, responsive calendar application built with React, TypeScript, and Vite
 - `bun run build`: Builds the application for production.
 - `bun run preview`: Previews the production build locally.
 - `bun run lint`: Runs ESLint to check for code style issues.
-- `bun test`: Runs tests using Vitest.
+- `bun run test`: Runs tests using Vitest.
 - `bun run format`: Formats code using Prettier.
 
 ## Testing
