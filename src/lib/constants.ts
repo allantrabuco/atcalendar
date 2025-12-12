@@ -1,5 +1,5 @@
 // Calendar constants
-export const HOURS = 25;
+export const HOURS = 24;
 export const SLOTS_PER_HOUR = 4;
 export const CELL_WIDTH = 120;
 export const CELL_HEIGHT = 15;
